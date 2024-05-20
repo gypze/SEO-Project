@@ -7,16 +7,16 @@ The challenge was to refactor the code to meet WCAG guidelines for the purpose o
 
 
 ## Optimizations
+I first added a header element
 
-I first added a <header> element
+I reorganized the HTML headings
 
-I reorganized the HTML headings <h1> - <h6> and put them in proper order.
-
-I then changed the <div> element to the <nav> element as it specifies that the content is navigation related so that users with disabilites can understand the information.
+I changed the div element to the nav element as it specifies that the content is navigation related so that users with disabilites can understand the information.
 
 I added alt text next to the all of the image link so that the technology that exists for users with disabilites could be used. 
 
-I organized the <ul> <li> <a href> code removing whitespace so that the code is more organized
+I organized the ul, li,and  a href code removing whitespace so that the code is more organized
+
 
 ## Link to URL
 
