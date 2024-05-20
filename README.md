@@ -62,6 +62,11 @@ She helped me figure out why i couldn't get my readme.md file to upload to githu
 She also helped me understand how better to make my code dry,
 https://readme.so/editor is the website where i got my readme.md template, this made making it so much easier to organize and understand as a beginner what I needed to put in the readme.md text
 
+## Link to github week 1 challenge
+
+https://github.com/gypze/SEO-Project
+
+
 
 
 
