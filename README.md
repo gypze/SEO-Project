@@ -27,10 +27,10 @@ https://gypze.github.io/SEO-Project/
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Authors
 
-- git@github.com:gypze/SEO-Project.git##
-
+https://github.com/gypze/SEO-Project
 
 ## Color Reference
 
