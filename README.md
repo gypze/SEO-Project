@@ -6,7 +6,6 @@ Make semantic HTML
 The challenge was to refactor the code to meet WCAG guidelines for the purpose of search engine optimization.
 
 
-
 ## Optimizations
 
 I first added a <header> element
@@ -19,6 +18,10 @@ I added alt text next to the all of the image link so that the technology that e
 
 I organized the <ul> <li> <a href> code removing whitespace so that the code is more organized
 
+## Link to URL
+
+https://gypze.github.io/SEO-Project/
+
 
 ## License
 
@@ -26,8 +29,10 @@ I organized the <ul> <li> <a href> code removing whitespace so that the code is 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Authors
 
-- git@github.com:gypze/SEO-Project.git## Color Reference
+- git@github.com:gypze/SEO-Project.git##
 
+
+## Color Reference
 
 background-color: #d9dcd6; https://developer.mozilla.org/docs/Web/CSS/background-color  
 background-color: #2a607c;  https://developer.mozilla.org/docs/Web/CSS/background-color  
@@ -38,8 +43,8 @@ background-color: #0072bb;https://developer.mozilla.org/docs/Web/CSS/background-
                   
 ## Demo
 
+https://gypze.github.io/SEO-Project/
 
-C:\Users\Gypze\bootcamp\SEO-Project\SEO-Project\index.html
 ## Lessons Learned/Challenges
 
 Considering the fact that I started with almost no knowlege of what coding was, or how to build a website I think I did pretty well. 
