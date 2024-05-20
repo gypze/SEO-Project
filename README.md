@@ -55,6 +55,13 @@ When I was trying to fix issue with Search Engine Optimization text I couldn't g
 
 I learned how to commit, but I could't figure out why my messages didn't show up where I expected them to 
 
+## Help Received
+
+I did receive help from a tutor, She helped me understand why I wasn't able to commit 
+She helped me figure out why i couldn't get my readme.md file to upload to github
+My tutor did help me understand how better to make my code dry
+https://readme.so/editor is the website where i got my readme.md template, this made making it so much easier to organize and understand as a beginner what I needed to put in the readme.md text
+
 
 
 
