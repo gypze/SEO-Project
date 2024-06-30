@@ -28,9 +28,6 @@ https://gypze.github.io/SEO-Project/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Authors
-
-https://github.com/gypze/SEO-Project
 
 ## Color Reference
 
@@ -56,9 +53,9 @@ When I was trying to fix issue with Search Engine Optimization text I couldn't g
 I learned how to commit, but I could't figure out why my messages didn't show up where I expected them to 
 
 
-## Link to github week 1 challenge
+## To Deploy this Project run 
 
-https://github.com/gypze/SEO-Project
+
 
 
 
